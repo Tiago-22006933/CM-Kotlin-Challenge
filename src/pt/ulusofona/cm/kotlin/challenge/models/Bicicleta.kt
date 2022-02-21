@@ -1,3 +1,3 @@
-class Bicicleta() {
+class Bicicleta(identificador: String) {
 
 }
